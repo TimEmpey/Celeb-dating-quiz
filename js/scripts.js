@@ -38,5 +38,6 @@ window.onload = function() {
     } else {
       window.alert("You are not compatible :(");
     }
+    
   };
 };
